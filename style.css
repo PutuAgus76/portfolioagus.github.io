@@ -1,0 +1,46 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2ecc73;
+}
+
+/* font-family: 'Bruno Ace', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nabla', cursive;
+font-family: 'Poppins', sans-serif; */
+
+nav {
+  font-family: "Bruno Ace", cursive;
+  font-size: large;
+}
+
+.display-4 {
+  font-family: "Nabla", cursive;
+}
+
+.lead {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-nav {
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  font-family: "Bruno Ace", cursive;
+}
+
+#project {
+  background-color: #2ecc73;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+label {
+  font-family: "Poppins", sans-serif;
+}
