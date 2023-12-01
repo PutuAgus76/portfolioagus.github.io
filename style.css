@@ -1,12 +1,13 @@
 .jumbotron {
   padding-top: 6rem;
+  background-size: 1500px;
   background-color: #2ecc73;
 }
 
 /* font-family: 'Bruno Ace', cursive;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Nabla', cursive;
-font-family: 'Poppins', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nabla', cursive;
+  font-family: 'Poppins', sans-serif; */
 
 nav {
   font-family: "Bruno Ace", cursive;
@@ -17,7 +18,7 @@ nav {
   font-family: "Nabla", cursive;
 }
 
-.lead {
+p .lead {
   font-family: "Poppins", sans-serif;
 }
 
@@ -25,12 +26,18 @@ nav {
   font-family: "Poppins", sans-serif;
 }
 
+.me {
+  text-align: justify;
+  font-family: "Poppins", sans-serif;
+}
+
 p {
   font-family: "Poppins", sans-serif;
 }
 
-h2 {
-  font-family: "Bruno Ace", cursive;
+h1 {
+  font-size: large;
+  font-family: "Nabla", cursive;
 }
 
 #project {
@@ -43,4 +50,14 @@ section {
 
 label {
   font-family: "Poppins", sans-serif;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.card-text a {
+  font-style: italic;
+  color: white;
+  text-decoration: none;
 }
